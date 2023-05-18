@@ -1,0 +1,19 @@
+{
+  "dicom_Path": "",
+  "dicom_Path_RENAME_ADDRESS": "F:\\颈动脉\\质量4用于图文\\质量4用于图文",
+  "dicom_Path_RENAME_TARGET": "F:\\颈动脉\\整理后160",
+  "dicom_Path_BASE_PATH": "F:\\颈动脉\\整理后160_nii",
+  "dicom_Path_NIIs_TARGET_PATH": "F:\\颈动脉\\整理后160_nii",
+  "MRICROGL_path": "E:\\Programs\\MRIcroGL\\Resources",
+  "nii_path_base_niis": "F:\\颈动脉\\整理后160_nii",
+  "nii_path_left_right_niis": "F:\\颈动脉\\整理后160_nii\\NIIS_left_right",
+  "nii_path_cropped_left_right": "E:\\Documents\\PostGraduate\\replay\\VKD\\vkd_in_mr-master\\Dataset\\niis\\Cropped_NIIS_left_right",
+  "nii_path_patients": "E:/Documents/PostGraduate/replay/VKD/vkd_in_mr-master/Dataset/【颈动脉】v3.0 CSV.csv",
+  "训练用：": "",
+  "target_CSV_PATH": "C:\\Users\\PC\\Desktop\\CaoBo\\颈动脉VKD\\vkd\\Dataset\\target.csv",
+  "pretrain_resnet_Path": "C:\\Users\\PC\\Desktop\\CaoBo\\颈动脉VKD\\vkd\\Model\\resnet_50_23dataset.pth",
+  "pretrain_BERT_Path": "",
+  "pretrain_BERT_Path_JSON_FILE": "C:\\Users\\PC\\Desktop\\CaoBo\\颈动脉VKD\\vkd\\Model\\bert_config.json",
+  "pretrain_BERT_Path_STATE_DICT": "C:\\Users\\PC\\Desktop\\CaoBo\\颈动脉VKD\\vkd\\Model\\mc_bert_torch.bin",
+  "pretrain_BERT_Path_TOKENIZER": "C:\\Users\\PC\\Desktop\\CaoBo\\颈动脉VKD\\vkd\\Model"
+}
